@@ -1,0 +1,31 @@
+h1
+{
+    text-align: center;
+}
+
+.tiszato
+{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 15px;
+    text-align: justify;
+}
+
+#ugras:hover
+{
+    background-color: rgb(25, 152, 194);
+}
+
+#video{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.kepek{
+    width: 50%;
+}
+
+.kepek:hover{
+    border: 1px solid blue;
+    box-shadow: 5px 5px 5px cornflowerblue;
+}
